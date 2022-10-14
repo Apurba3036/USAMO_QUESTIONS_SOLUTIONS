@@ -1,8 +1,7 @@
 
 # USA Mathematical Olympiad
 
-![photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.russianschool.com%2Fblog%2Fcompetitions%2Fusamo-problems-and-solutions&psig=AOvVaw3YhKKKy5qvJLDfU1l_jwP9&ust=1665848467419000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjR_6eH4PoCFQAAAAAdAAAAABAD)
-
+![photo](https://www.maa.org/sites/default/files/images/AMC/usamo/e8-usamo/e8-3-usamomedia/usamo.gif)
 HERE YOU CAN FIND THE QUESTIONS OF USA MATH OLYMPIAD.
 SOLUTIONS ARE AVAILABLE HERE.
 
